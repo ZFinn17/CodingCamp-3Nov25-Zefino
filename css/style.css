@@ -99,11 +99,6 @@ hr {
     padding-left: 7rem
 }
 
-.footer {
-    padding: 3rem;
-    padding-left: 7rem
-}
-
 input {
     margin: 20px;
 }
@@ -240,4 +235,10 @@ input[type="submit"] {
     .certificate p {
       font-weight: 500;
       color: #1e293b;
+    }
+
+    footer p {
+        text-align: right !important;
+            padding: 3rem;
+    width: 100%;
     }
